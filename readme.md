@@ -1,0 +1,1 @@
+{'id': '3712', 'trainer_name': 'Санчо', 'trainer_token': 'd598ef4109d396a913aa2ffcd3e66677'}
